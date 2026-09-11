@@ -1,0 +1,12 @@
+{
+  "name": "arisonfirmino/arison_2193094_poo_unidade3",
+  "description": "Lista de exercícios: Fixação, prática, preparação para prova e desafios",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {}
+}
