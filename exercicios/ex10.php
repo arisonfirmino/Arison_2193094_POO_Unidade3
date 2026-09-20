@@ -1,3 +1,8 @@
+<!-- Nome: Arison Ivo Firmino -->
+<!-- RA: 2193094 -->
+<!-- Turma: BCC - B -->
+<!-- Disciplina: Programação Orientada a Objetos -->
+
 <?php
 
 require_once __DIR__ . '/../src/CofrinhoMeta.php';
